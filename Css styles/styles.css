@@ -1,0 +1,105 @@
+.btn {
+    text-transform: uppercase;
+}
+.btn-primary {
+    background-color: black;
+    color: white;
+}
+.btn-primary:hover {
+    border: solid 3px gray;
+}
+.btn-secondary {
+    background-color: white;
+}
+.btn-secondary:hover {
+    border: solid 3px gray;
+}
+.btn-succes {
+    background-color: green;
+    color: white;
+}
+.btn-succes:hover {
+    border: solid 3px gray;
+}
+.btn-info {
+    background-color: blue;
+    color: white;
+}
+.btn-info:hover {
+    border: solid 3px gray;
+}
+.btn-warning {
+    background-color: orange;
+    color: white;
+}
+.btn-warning:hover {
+    border: solid 3px gray;
+}
+.btn-danger {
+    background-color: red;
+    color: white;
+}
+.btn-danger:hover {
+    border: solid 3px gray;
+}
+
+p {
+    margin: 20px;
+    padding: 20px;
+}
+button {
+    padding: 20px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.kis-gombok {
+    padding: 20px;
+    margin: 20px;
+}
+.btn-primary-2 {
+    background-color: rgb(0, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+.btn-secondary-2 {
+    background-color: rgb(255, 255, 255, 0.5);
+    padding: 10px;
+}
+.btn-succes-2 {
+    background-color: rgb(0, 128, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+.btn-info-2 {
+    background-color: rgb(0, 0, 255, 0.5);
+    color: white;
+    padding: 10px;
+}
+.btn-warning-2 {
+    background-color: rgb(255, 165, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+.btn-danger-2 {
+    background-color: rgba(255, 0, 0, 0.5);
+    color: white;
+    padding: 10px;
+}
+
+input, label {
+    display: block;
+    margin: 10px;
+}
+span {
+    font-size: small;
+    margin: 10px;
+}
+
+input {
+    background-color: rgb(238, 238, 238);
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+} 
